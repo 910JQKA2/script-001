@@ -1,2 +1,2 @@
 # script-001
-script
+print("loadstring(game:HttpGet("https://raw.githubusercontent.com/thantzy/thanhub/refs/heads/main/thanv1"))()")
